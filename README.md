@@ -8,5 +8,5 @@ Ackuretta is a leading manufacturer of high-precision 3D printing solutions tail
 <b>Frameworks:</b> Angular, Bootstrap</br>
 <b>Web Technologies:</b> RESTful API, JSON</br>
 <b>Operating Systems:</b> Windows, Linux</br>
-<b>Software & Tools:</b> Git, Figma, Adobe XD</br>
+<b>Software & Tools:</b> Git, Axure RP, Figma, Adobe XD</br>
 <b>Project Management:</b> Trello, Coda, Google Calendar
