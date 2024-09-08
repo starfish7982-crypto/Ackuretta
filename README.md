@@ -5,8 +5,8 @@ Ackuretta is a leading manufacturer of high-precision 3D printing solutions tail
 <br>
 <br>
 <b>Programming Languages:</b> Python, JavaScript, TypeScript, HTML5, CSS</br>
-<b>Web Technologies:</b> RESTful API, JSON</br>
 <b>Frameworks:</b> Angular, Bootstrap</br>
+<b>Web Technologies:</b> RESTful API, JSON</br>
 <b>Operating Systems:</b> Windows, Linux</br>
 <b>Software & Tools:</b> Git, Figma, Adobe XD</br>
 <b>Project Management:</b> Trello, Coda, Google Calendar
