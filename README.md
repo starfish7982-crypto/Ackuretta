@@ -19,3 +19,5 @@ Mar 2018 - Apr 2021 | Taipei City, Taiwan<br>
 <b>Operating Systems:</b> Windows, Linux</br>
 <b>Software & Tools:</b> Git, Axure RP, Figma, Adobe XD, VMware</br>
 <b>Project Management:</b> Trello, Coda, Google Calendar
+
+![All Projects](https://raw.githubusercontent.com/starfish7982-crypto/Ackuretta/main/Projects/All%20Projects.png)
