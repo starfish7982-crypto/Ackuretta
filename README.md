@@ -10,7 +10,7 @@ Ackuretta is a leading manufacturer of high-precision 3D printing solutions tail
 Mar 2018 - Apr 2021 | Taipei City, Taiwan<br>
 <ul>
 <li>Built a web system from scratch to Bootstrap mobile-friendly pages, integrating dynamic functionality for various features.</li>
-<li>Developed projects for 5 products: CURIE, SOL, DENTIQ, FreeShape 120, Diplo.</li>
+<li>Developed projects for 5 3D printer products: CURIE, SOL, DENTIQ, FreeShape 120, Diplo.</li>
 <li>Optimized website printing process, resulting in a 50% reduction in user wait times.</li>
 <li>Designed wireframes to visualize applications and improve user experience.</li>
 </ul>
